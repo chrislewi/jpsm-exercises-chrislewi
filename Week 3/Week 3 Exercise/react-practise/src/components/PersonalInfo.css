@@ -1,0 +1,5 @@
+.profile-image {
+  width: 150px; /* Controls how wide the image appears */
+  height: auto; /* Keeps the correct proportions */
+  border-radius: 8px; /* Optional: rounds the corners nicely */
+}

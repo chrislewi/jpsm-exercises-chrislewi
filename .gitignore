@@ -1,0 +1,9 @@
+# Environment files
+.env
+
+# Dependencies and build caches (recommended to add)
+node_modules/
+venv/
+__pycache__/
+dist/
+build/
